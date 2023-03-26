@@ -89,7 +89,7 @@ This repository is for **educational and informational purposes only**.
 
 ❌  : Currently not working.
 
-🤷‍♂️ : Haven't tested properly yet.
+🤷‍♂️  : Haven't tested properly yet.
 ```
 
 <details>
